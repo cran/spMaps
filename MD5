@@ -1,0 +1,11 @@
+b79134305d97d52407acfc154e9fd3b2 *DESCRIPTION
+ed36de57b24b2922c78b0e50e20809a9 *LICENSE
+ce49b038f581b9ec6e206e20cf90557d *NAMESPACE
+dcaa1256d4b8e5285f459dc474152e10 *R/sysdata.rda
+1c507631eba2c255220b19696c9cb282 *R/utils.R
+7816407adc31f3b2887fe5305ffcf886 *README.md
+2387ca3e1161621e8b175b076404f06d *inst/dataset/build_save_data.R
+5bdf4fb8b9f09675569e9ab5e32fc936 *man/spMaps.Rd
+a0930d037706bc88c15d2df7a521761d *tests/testthat.R
+a26e0b57e38e2a32c2e202e3be70253c *tests/testthat/test-dataset.R
+3fbe9a50e3e2dc5693186da2a8b3d68e *tests/testthat/test-getAntaresMap.R
